@@ -31,11 +31,11 @@ conda install scipy=1.2.0
 jupyter notebook
 ```
 ## LICENSE
-[01_training_clean_housing_data_for_1212.ipynb](https://drive.google.com/open?id=1NbWmPZM8CyQ7KqAeMRVeJKQaDzhotRM_)
+[01_training_clean_housing_data_for_1212.ipynb](https://drive.google.com/open?id=1fEh59vSP1buFRSsNtQQngH8B60MjQsoL)
 
-[corr_1212_r.ipynb](https://drive.google.com/open?id=1J63Md3-3L4JY7fTFiMmzO5sNJaklrsuV)
+[corr_1212_r.ipynb](https://drive.google.com/open?id=18jI4CkR5G31au-NlRsVFgj64VUMv32ix)
 
-[regression.ipynb](https://drive.google.com/open?id=1y_UU_n8Qg6sowkivBUENLQZTZ1WTpxQF)
+[regression.ipynb](https://drive.google.com/open?id=1VTwTugpG4_oMa5UqYCSqeE_XQV9xaLJc)
 
 [raw_data_1212.csv](https://drive.google.com/open?id=1FXQvRhU-O_bhI_t5ZZovSMUrdulxJlTE)
 
