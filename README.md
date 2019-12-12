@@ -32,7 +32,11 @@ jupyter notebook
 ```
 ## LICENSE
 [01_training_clean_housing_data_for_1212.ipynb](https://drive.google.com/open?id=1NbWmPZM8CyQ7KqAeMRVeJKQaDzhotRM_)
+
 [corr_1212_r.ipynb](https://drive.google.com/open?id=1J63Md3-3L4JY7fTFiMmzO5sNJaklrsuV)
+
 [regression.ipynb](https://drive.google.com/open?id=1y_UU_n8Qg6sowkivBUENLQZTZ1WTpxQF)
+
 [raw_data_1212.csv](https://drive.google.com/open?id=1FXQvRhU-O_bhI_t5ZZovSMUrdulxJlTE)
+
 [cleaned_taoyuan_data_1212_r.csv](https://drive.google.com/open?id=1gt8XpvPgVO8EredEG9JKbjhTa61B6g97)
