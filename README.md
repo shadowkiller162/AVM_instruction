@@ -1,25 +1,3 @@
-![python_vesion](https://img.shields.io/badge/Python-3.7%2B-green.svg)
-[![MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/sfyc23/EverydayWechat/blob/master/LICENSE)
-
-AVM Instruction 上課用筆記本
-
-## 課程時間表
-
-- 13:40~15:10 程式語言PYTHON之操作介紹與說明
-  - 資源：Python_Crash_Course/
-- 15:20~16:50 程式語言PYTHON之操作應用
-  - 資源：Demo_code/
-
-## 課程大綱
-#### 1. 程式語言PYTHON之操作介紹與說明
-- 講義：Python_Crash_Course/01_Python_Crash_Course.ipynb
-- 練習：Python_Crash_Course/02_Python_Crash_Course_Exercises.ipynb
-- 解答：Python_Crash_Course/03_Python_Crash_Course_Exercises - Solutions.ipynb
-
-#### 2. 程式語言PYTHON之操作應用
-- 講義：Demo_code/01_Pandas_and_Scikit-Learn.ipynb
-- 講義：Demo_code/02_AVM_Model_Build_Predict.ipynb
-
 ## 環境建立
 #### Python虛擬環境建立
 ```
@@ -53,4 +31,8 @@ conda install scipy=1.2.0
 jupyter notebook
 ```
 ## LICENSE
-[MIT License](https://zh.wikipedia.org/wiki/MIT%E8%A8%B1%E5%8F%AF%E8%AD%89)
+[01_training_clean_housing_data_for_1212.ipynb](https://drive.google.com/open?id=1NbWmPZM8CyQ7KqAeMRVeJKQaDzhotRM_)
+[corr_1212_r.ipynb](https://drive.google.com/open?id=1J63Md3-3L4JY7fTFiMmzO5sNJaklrsuV)
+[regression.ipynb](https://drive.google.com/open?id=1y_UU_n8Qg6sowkivBUENLQZTZ1WTpxQF)
+[raw_data_1212.csv](https://drive.google.com/open?id=1FXQvRhU-O_bhI_t5ZZovSMUrdulxJlTE)
+[cleaned_taoyuan_data_1212_r.csv](https://drive.google.com/open?id=1gt8XpvPgVO8EredEG9JKbjhTa61B6g97)
